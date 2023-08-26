@@ -1,0 +1,6 @@
+Product Number                         Name                          Price                      Discount
+      01                               Chips                          20                            2
+      02                            Biscuits                          25                            2
+      03                                Meat                         100                            3
+      04                                milk                          40                            2
+      05                                Eggs                          45                            2
